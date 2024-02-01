@@ -1,3 +1,0 @@
-Hello Odin Again!
-Testing setting the git commit message editor with this command:
-`git config --global core.editor "code --wait"`
